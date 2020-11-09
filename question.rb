@@ -10,9 +10,3 @@ class Question
   end
 
 end
-
-# Test Code
-# q1 = Question.new
-
-# puts q1.question
-# puts q1.answer
