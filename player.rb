@@ -15,14 +15,15 @@ class Player
 
 end
 
-p1 = Player.new
-puts p1.name
-p2 = Player.new
-puts p2.name
+# Test Code
+# p1 = Player.new
+# puts p1.name
+# p2 = Player.new
+# puts p2.name
 
-puts p1.lives
-puts p2.lives
+# puts p1.lives
+# puts p2.lives
 
-p1.lose
+# p1.lose
 
-puts p1.lives
+# puts p1.lives
